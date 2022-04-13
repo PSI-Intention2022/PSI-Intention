@@ -62,4 +62,4 @@ Output:
 
 *Note*: Due to the missing of spatial segmentation annotations, video_0060 and video_0093 are removed. Besides, video_0003 and video_0028 are ignored as the annotated frame sequences are too short.
 
-In our PSI paper experiments, the observed tracks length is 15, while predicting the 16-th frame intention. The overlap rate is set as 0.8. 
+In our PSI paper experiments, the observed tracks length is 15, while predicting the 16-th frame intention. The overlap rate is set as 1 for both train and test stages. 
