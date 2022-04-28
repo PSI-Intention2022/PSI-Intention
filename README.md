@@ -1,5 +1,5 @@
 # PSI-Intention
-This repository contains PSI-Intention dataset pre-processing and baseline.
+This repository contains PSI-Intention dataset pre-processing and baseline[to be uploaded].
 
 ## Download dataset and extract
 Download the dataset from [link](http://pedestriandataset.situated-intent.net), then extract via
