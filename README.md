@@ -68,3 +68,12 @@ Output:
 *Note*: Due to the missing of spatial segmentation annotations, video_0060 and video_0093 are removed. Besides, video_0003 and video_0028 are ignored as the annotated frame sequences are too short.
 
 In our PSI paper experiments, the observed tracks length is 15, while predicting the 16-th frame intention. The overlap rate is set as 0.8 for both train and test stages. 
+
+# Citing
+```
+@article{chen2021psi,
+title   = {PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car},
+author  = {Chen, Tina and Tian, Renran and Chen, Yaobin and Domeyer, Joshua and Toyoda, Heishiro and Sherony, Rini and Jing, Taotao and Ding, Zhengming},
+journal = {arXiv preprint arXiv:2112.02604},
+year    = {2021} }
+```
