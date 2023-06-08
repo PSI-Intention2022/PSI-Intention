@@ -1,10 +1,11 @@
 # News
 - 20230607 - :bangbang: We are hosting a competition about pedestrian behavior prediction, please check details and participate via [[IEEE ITSS PSI Student Competition](https://psi-intention2022.github.io)]
-- 20230607 - The new PSI 2.0 benchmark (Training & Validation) is released with more video samples and diverse multimodal interpretable annotations for pedestrian intent and driving decision!
+- 20230607 - The new [[PSI 2.0 benchmark (Training & Validation)](https://github.com/PSI-Intention2022/PSI-Dataset)] is released with more video samples and diverse multimodal interpretable annotations for pedestrian intent and driving decision!
 
 ---
 ---
-:exclamation: This repo is **deprecated**. Please check our new [PSI Dataset](https://github.com/PSI-Intention2022/PSI-Dataset) and the [[IEEE ITSS PSI Student Competition in Pedestrian Behavior Prediction](https://psi-intention2022.github.io)]. 
+:exclamation: This repo is **deprecated**. Please check our new [PSI Dataset](https://github.com/PSI-Intention2022/PSI-Dataset) and the [[IEEE ITSS PSI Student Competition in Pedestrian Behavior Prediction](https://psi-intention2022.github.io)]. :exclamation: 
+---
 # IUPUI-CSRC Pedestrian Situated Intent (PSI) Dataset 
 This repository contains IUPUI-CSRC Pedestrian Situated Intent (PSI) Dataset pre-processing and baseline.
 
