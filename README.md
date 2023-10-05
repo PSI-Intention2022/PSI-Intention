@@ -1,6 +1,7 @@
 # News
+- 20230910: All PSI data including videos, CV annotations, and Cognitive Annotation (PSI1.0 & PSI 2.0) are public for download and future exploration! ~~[[Google Drive]()]~~ [[PSI Homepage](http://pedestriandataset.situated-intent.net)] :sparkler::zap:
 - 20230607 - :bangbang: We are hosting a competition about pedestrian behavior prediction, please check details and participate via [[IEEE ITSS PSI Student Competition](https://psi-intention2022.github.io)]
-- 20230607 - The new [[PSI 2.0 benchmark (Training & Validation)](https://github.com/PSI-Intention2022/PSI-Dataset)] is released with more video samples and diverse multimodal interpretable annotations for pedestrian intent and driving decision!
+- 20230607 - The new [[PSI 2.0 benchmark (Training & Validation & Test)](https://github.com/PSI-Intention2022/PSI-Dataset)] is released with more video samples and diverse multimodal interpretable annotations for pedestrian intent and driving decision!
 
 ---
 ---
